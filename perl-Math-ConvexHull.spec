@@ -4,7 +4,6 @@
 #
 %define		pdir	Math
 %define		pnam	ConvexHull
-%include	/usr/lib/rpm/macros.perl
 Summary:	Math::ConvexHull - Calculate convex hulls using Graham's scan (n*log(n))
 Name:		perl-Math-ConvexHull
 Version:	1.04
